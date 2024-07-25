@@ -23,7 +23,7 @@
 
 <h1 align="center" style="border-bottom: 1px solid dimgrey;">
 	<a inert href="#!" style="cursor: default;"><img align="center" height="72px" src="https://github.com/lost-scripts/ls_shapes_window/raw/main/ScriptResources/ls_shapes_window/docs/index_icon.svg"></a>
-	<span>Shapes Window (NO EXTENSION)</span>
+	<span>Shapes Window (SCRIPT)</span>
 	<div align="center">
 		<a href="https://moho.lostmarble.com/" title="Go to Moho website"><img src="https://img.shields.io/badge/For-Moho_Pro_14.2+-orange" alt="Moho version"></a>
 		<a href="https://github.com/lost-scripts/ls_shapes_window/releases/latest" title="Go to download page"><img src="https://img.shields.io/github/v/release/lost-scripts/ls_shapes_window?logo=github" alt="Latest version"></a>
