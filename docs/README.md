@@ -123,7 +123,7 @@
 <tr width="1024px" style="vertical-align: top">
 	<td valign="top">
 		<ol>
-		<li>Wherever it was unpacked, you'll find any of the following folders: <code>Menu | ScriptResources | Tool | Utility</code>.</li>
+		<li>Wherever unpacked, you'll find any of the following folders: <code>Menu | ScriptResources | Tool | Utility</code>.</li>
 		<li>Drag & Drop (or Copy & Paste) them all into the <b><i>Scripts</i></b> folder of your <a href="https://manual.lostmarble.com/app/page/1IOuEOfMa7kUwqYPi2ABDhwoWE_KXB1OBCC5ib__iyIE?p=1UxA8Gi5DttJku9AmFlSpO0gJw4U9flX3" title="View in Moho users manual"><i><b>Custom Content Folder</b></i></a> (<strong>overwrite</strong> if prompted).</li>
 		<li>Restart Moho® or press "Alt + Shift + Ctrl + L" to <i>Reload Tools And Brushes</i>, and that should be all.</li>
 		</ol>
@@ -131,7 +131,7 @@
 	<td valign="top">
 		<ol>
 		<li>From Moho's main menus, go to "Scripts -> Install Script..." and a window with some info will appear.</li>
-		<li>Press "Select A Script Folder" button, browse to the unzipped folder (e.g., <code>ls_shapes_window</code>) and select it.</li>
+		<li>Press "Select A Script Folder" button, browse to the unzipped folder (e.g., <code>ls_shapes_window-main</code>) and select it.</li>
 		<li>That should be all. You can read chapter <a href="https://manual.lostmarble.com/app/page/1IOuEOfMa7kUwqYPi2ABDhwoWE_KXB1OBCC5ib__iyIE?p=1UxA8Gi5DttJku9AmFlSpO0gJw4U9flX3" title="View in Moho users manual"><i>23.17 Install Script...</i></a> of the Moho® user's manual for further details.</li>
 		</ol>
 	</td>
@@ -146,7 +146,7 @@
 </tbody>
 </table>
 
-<blockquote style="border-left: none;"> <sup>⚠ <b>WARNING</b>: Only uninstall the <a href="https://github.com/lost-scripts/ls/" title="Visit LS repository"><i>Lost Script Project</i></a> itself if you are certain that none of its shared/common resources are still required by any of your installed scripts, otherwise they may start throwing errors or stop working. To uninstall a <i>Lost Script</i>, remove any files and folders matching its name as usual and restart Moho® or <i>Reload Tools And Brushes</i> if necessary.</sup></blockquote>
+<blockquote style="border-left: none;"> ⚠ <b>WARNING</b>: Only uninstall the <a href="https://github.com/lost-scripts/ls/" title="Visit LS repository"><i>Lost Scripts Project</i></a> if you are sure none of its shared resources are needed by any of your installed scripts, or they may throw errors or stop working. To uninstall any script, remove files and folders matching its name and restart Moho® or <i>Reload Tools And Brushes</i> as usual.</blockquote>
 
 <h2 align="center" style="border-bottom: 1px solid dimgrey;">🤝 Collab & Support</h2>
 <p>Suggestions and bugs can be reported in the <a href="https://github.com/lost-scripts/ls/issues" title="Go to &quot;Issues&quot; section"><i>Issues</i></a> section that GitHub provides (or in the corresponding topic, if any, in <a href="https://www.lostmarble.com/forum/viewforum.php?f=12)" title="Go to Lost Marble Forum's &quot;Scripting&quot; section"><i>Scripting</i></a> section of the <a href="https://www.lostmarble.com/forum" title="Go to the &quot;Lost Marble Forum&quot;"><i>Lost Marble Forum</i></a>).</p>
